@@ -2,8 +2,6 @@
 
 A content-based movie recommender with a Streamlit web UI. Pick a movie and it suggests 5 similar movies, based on overview, genres, keywords, top 3 cast and director (CountVectorizer + cosine similarity over the TMDB 5000 dataset).
 
-Method and logic adapted from [movie-recommender](https://github.com/Mehak2005si/movie-recommender) by Mehak Singh, reused with permission.
-
 ## Dataset (not included)
 
 The two CSV files are NOT part of this repository. To run the app, download them yourself:
